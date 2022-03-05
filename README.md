@@ -7,3 +7,9 @@ A repository for storing my answers for coding interviews.
 - Hackerrank
 - Cracking the Coding Interview
 
+## Language used:
+- Python
+
+## License : 
+MIT License
+
