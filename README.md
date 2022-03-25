@@ -6,6 +6,7 @@ A repository for storing my answers for coding interviews.
 - LeetCode
 - Hackerrank
 - Cracking the Coding Interview
+- Codewars
 
 ## Language used:
 - Python
