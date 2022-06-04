@@ -1,16 +1,16 @@
 # Coding Questions
-## Introduction: 
+## Introduction
 A repository for storing my answers for coding interviews.
 
-## Resources:
+## Resources
 - LeetCode
 - Hackerrank
 - Cracking the Coding Interview
 - Codewars
 
-## Language used:
+## Language used
 - Python
 
-## License : 
+## License
 MIT License
 
