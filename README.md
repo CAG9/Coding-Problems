@@ -1,6 +1,6 @@
 # Coding Questions
 ## Introduction
-A repository for storing my answers for coding interviews.
+A repository for storing my answers to coding problems.
 
 ## Resources
 - LeetCode
