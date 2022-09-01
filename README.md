@@ -9,7 +9,7 @@ A repository for storing my answers to coding problems.
 - Codewars
 
 ## Language used
-- Python
+- Python 3
 
 ## License
 MIT License
