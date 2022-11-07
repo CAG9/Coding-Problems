@@ -8,7 +8,7 @@ A repository for storing my answers to coding problems.
 - Cracking the Coding Interview
 - Codewars
 
-## Language used
+## Language
 - Python 3
 
 ## License
