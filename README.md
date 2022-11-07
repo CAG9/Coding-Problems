@@ -1,5 +1,5 @@
 # Coding Questions
-## Introduction
+## About
 A repository for storing my answers to coding problems.
 
 ## Resources
