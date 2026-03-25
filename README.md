@@ -1,5 +1,5 @@
 # Coding Questions
-A repository for storing my answers to coding problems.
+A repository for storing my answers to code problems.
 
 ## Resources
 - LeetCode
