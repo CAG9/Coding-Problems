@@ -6,3 +6,4 @@ class Solution:
                 if num < 0:
                     negative += 1
         return negative 
+
