@@ -8,7 +8,7 @@ A repository for storing my answers to code problems.
 - Codewars
 
 ## Language
-- Python3
+- Python
 
 ## License
 MIT License
