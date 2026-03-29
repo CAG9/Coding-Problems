@@ -7,6 +7,7 @@ import re
 import sys
 from collections import Counter
 #
+
 # Complete the 'equalizeArray' function below.
 #
 # The function is expected to return an INTEGER.
