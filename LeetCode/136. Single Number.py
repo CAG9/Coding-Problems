@@ -4,6 +4,7 @@ class Solution:
         
         for number in nums:
             if number in stored_values:
+                
                 stored_values.remove(number)
             else:
                 stored_values.append(number)
