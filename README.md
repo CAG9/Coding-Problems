@@ -6,7 +6,6 @@ A collection of my solutions to coding challenges and algorithmic problems.
 
 ## Language
 - Python
-- SQL
 ## License
 MIT License
 
