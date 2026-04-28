@@ -10,3 +10,4 @@ class Solution:
                 stored_values.append(number)
                 
         return stored_values[0]
+        
